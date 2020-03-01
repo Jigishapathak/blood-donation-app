@@ -1,3 +1,3 @@
 # Blood donation app
 
-Blood donation app built with basic HTML, CSS and Javascript.
+Blood donation app built with HTML, CSS, Javascript and SQL.
